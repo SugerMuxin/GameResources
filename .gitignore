@@ -1,0 +1,4 @@
+#忽略文件目录
+Library/
+Logs/
+Temp/
